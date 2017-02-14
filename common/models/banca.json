@@ -13,7 +13,7 @@
       "length": null,
       "precision": 10,
       "scale": 0,
-      "mysql": {
+      "pgSql": {
         "columnName": "IdBanca",
         "dataType": "int",
         "dataLength": null,

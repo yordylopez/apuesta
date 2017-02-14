@@ -13,7 +13,7 @@
       "length": null,
       "precision": 10,
       "scale": 0,
-      "mysql": {
+      "pgSql": {
         "columnName": "IdJugadorBanca",
         "dataType": "int",
         "dataLength": null,
@@ -30,7 +30,7 @@
             "length": null,
             "precision": 10,
             "scale": 0,
-            "mysql": {
+            "pgSql": {
                 "columnName": "IdBanca",
                 "dataType": "int",
                 "dataLength": null,
@@ -46,7 +46,7 @@
             "length": null,
             "precision": 10,
             "scale": 0,
-            "mysql": {
+            "pgSql": {
                 "columnName": "IdJugador",
                 "dataType": "int",
                 "dataLength": null,

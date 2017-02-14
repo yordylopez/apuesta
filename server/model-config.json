@@ -36,15 +36,15 @@
     "dataSource": null
   },
   "Aptjugador": {
-    "dataSource": "mysql",
+    "dataSource": "pgSql",
     "public": true
   },
   "Banca": {
-    "dataSource": "mysql",
+    "dataSource": "pgSql",
     "public": true
   },
   "JugadorBanca": {
-    "dataSource": "mysql",
+    "dataSource": "pgSql",
     "public": true
   }
 }
