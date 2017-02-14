@@ -4,11 +4,11 @@
     "connector": "memory"
   },
   "accountDS": {
-    "host": "localhost",
+    "host": "ec2-54-235-245-255.compute-1.amazonaws.com",
     "port": 5432,
-    "database": "testdb",
-    "username": "yordy",
-    "password": "1234",
+    "database": "dlevuvi1j68ui",
+    "username": "iasaguxnaxdwbb",
+    "password": "5e034ff9d5e4ca0c24e5d9e977fbe0ce3706274ece127b9ffa706bc89eda6f5a",
     "name": "accountDS",
     "connector": "postgresql"
   }
