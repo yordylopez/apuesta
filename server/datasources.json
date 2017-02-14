@@ -11,5 +11,14 @@
     "database": "getting_started",
     "username": "demo",
     "password": "L00pBack"
+  },
+  "posgre": {
+    "name": "posgre",
+    "connector": "postgresql",
+    "host": "ec2-54-235-245-255.compute-1.amazonaws.com",
+    "port": 5432,
+    "database": "dlevuvi1j68ui",
+    "username": "iasaguxnaxdwbb",
+    "password": "5e034ff9d5e4ca0c24e5d9e977fbe0ce3706274ece127b9ffa706bc89eda6f5a"
   }
 }
