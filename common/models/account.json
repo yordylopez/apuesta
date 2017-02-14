@@ -1,17 +1,19 @@
 {
-  "name": "CoffeeShop",
+  "name": "Account",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
     "validateUpsert": true
   },
   "properties": {
-    "name": {
-      "type": "string",
-      "required": true
-    },
-    "city": {
+    "email": {
       "type": "string"
+    },
+    "createdAt": {
+      "type": "date"
+    },
+    "lastModifiedAt": {
+      "type": "date"
     }
   },
   "validations": [],

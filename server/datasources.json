@@ -3,22 +3,13 @@
     "name": "db",
     "connector": "memory"
   },
-  "mysqlDs": {
-    "name": "mysqlDs",
-    "connector": "mysql",
-    "host": "demo.strongloop.com",
-    "port": 3306,
-    "database": "getting_started",
-    "username": "demo",
-    "password": "L00pBack"
-  },
-  "posgre": {
-    "name": "posgre",
-    "connector": "postgresql",
-    "host": "ec2-54-235-245-255.compute-1.amazonaws.com",
+  "accountDS": {
+    "host": "localhost",
     "port": 5432,
-    "database": "dlevuvi1j68ui",
-    "username": "iasaguxnaxdwbb",
-    "password": "5e034ff9d5e4ca0c24e5d9e977fbe0ce3706274ece127b9ffa706bc89eda6f5a"
+    "database": "testdb",
+    "username": "yordy",
+    "password": "1234",
+    "name": "accountDS",
+    "connector": "postgresql"
   }
 }
