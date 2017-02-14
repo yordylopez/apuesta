@@ -1,0 +1,26 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysql": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "aptanimalito",
+    "password": "1234",
+    "name": "mysql",
+    "user": "root",
+    "connector": "mysql"
+  },
+  "pgSql": {
+    "host": "ec2-54-235-245-255.compute-1.amazonaws.com",
+    "port": 5432,
+    "url": "",
+    "database": "dlevuvi1j68ui",
+    "password": "5e034ff9d5e4ca0c24e5d9e977fbe0ce3706274ece127b9ffa706bc89eda6f5a",
+    "name": "pgSql",
+    "user": "iasaguxnaxdwbb",
+    "connector": "postgresql"
+  }
+}
